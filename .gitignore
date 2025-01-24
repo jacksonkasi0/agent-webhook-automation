@@ -1,0 +1,9 @@
+node_modules
+
+# Secret keys
+.env
+
+# Google Cloud credentials (spreadsheet)
+credentials.json
+
+test.js

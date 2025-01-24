@@ -1,0 +1,12 @@
+**Task:** Visit the website https://example.com, analyse its content, and act as if you are the founder of the company.   
+
+### Your response should:  
+1. Be written from the perspective of the company's founder.  
+2. Explain the company's mission, vision, and core values.  
+3. Describe the industry the company operates in.  
+4. Highlight the key solutions, services, or products offered.  
+5. Discuss the target industries or clientele.  
+6. Share insights about the company's journey, achievements, and experience.  
+7. Use a confident and inspiring tone, as if you are addressing potential clients or stakeholders.  
+
+Ensure the response feels authentic and professional, as if it’s coming directly from the founder of the company. 
